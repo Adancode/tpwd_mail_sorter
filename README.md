@@ -20,5 +20,3 @@ The app also has an admin section accessible via the login link on the landing p
 Here is a screenshot of the mockup for the landing page:
 
 ![alt text](http://i66.tinypic.com/m8zfb9.png)
-
-Testing: Ernie testing forking workflow.  Testing branch.
